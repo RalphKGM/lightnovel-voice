@@ -1,10 +1,10 @@
 # lightnovel-voice
 
-An AI-powered light novel reader that voices narration and character dialogue with distinct, emotionally aware voices — turning a flat text file into something that feels like a full cast production.
+An AI-powered light novel reader that voices narration and character dialogue with distinct, emotionally aware voices turning a flat text file into something that feels like a full cast production.
 
 ## what im aiming for
 
-Upload a light novel chapter. The AI reads it, figures out who is talking and how they feel, assigns each character a distinct voice, and plays it back as if a full cast recorded it. The narrator gets one voice. Rimuru gets another. Each character's emotional state — trembling, cold, whispering, shouting — is reflected in how the voice sounds, not just what it says.
+Upload a light novel chapter. The AI reads it, figures out who is talking and how they feel, assigns each character a distinct voice, and plays it back as if a full cast recorded it. The narrator gets one voice. Rimuru gets another. Each character's emotional state like trembling, cold, whispering, shouting and is reflected in how the voice sounds, not just what it says.
 
 Eventually: ambient sound effects layered underneath. Rain when it rains. Thunder when it strikes. Silence when it matters.
 
@@ -32,7 +32,7 @@ Play it back in the browser
 | Frontend | Next.js + Tailwind CSS |
 | Backend | Node.js + Express |
 | Text parsing | GPT-4o-mini |
-| Voice generation | Qwen3-TTS (open source, Apache 2.0) |
+| Voice generation | Qwen3-TTS (open source, Apache 2.0) / Voicelab (for now, just for testing)|
 | Audio processing | ffmpeg |
 | File parsing | epub.js, pdf-parse |
 
