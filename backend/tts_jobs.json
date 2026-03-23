@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "text": "The rain fell heavily that night.",
+    "emotion": "neutral",
+    "voice_description": "calm neutral narrator voice",
+    "output_file": "C:\\Users\\Ralph\\Desktop\\projects\\novel-voice\\lightnovel-voice\\backend\\audio_output\\segment_0.wav"
+  },
+  {
+    "index": 1,
+    "text": "I can't believe you did that.",
+    "emotion": "trembling",
+    "voice_description": "warm gentle young male voice",
+    "output_file": "C:\\Users\\Ralph\\Desktop\\projects\\novel-voice\\lightnovel-voice\\backend\\audio_output\\segment_1.wav"
+  },
+  {
+    "index": 2,
+    "text": "It was necessary.",
+    "emotion": "cold",
+    "voice_description": "cool calm young female voice",
+    "output_file": "C:\\Users\\Ralph\\Desktop\\projects\\novel-voice\\lightnovel-voice\\backend\\audio_output\\segment_2.wav"
+  },
+  {
+    "index": 3,
+    "text": "Then why does it feel so wrong?",
+    "emotion": "whispering",
+    "voice_description": "warm gentle young male voice",
+    "output_file": "C:\\Users\\Ralph\\Desktop\\projects\\novel-voice\\lightnovel-voice\\backend\\audio_output\\segment_3.wav"
+  },
+  {
+    "index": 4,
+    "text": "The silence that followed was heavier than the storm outside.",
+    "emotion": "neutral",
+    "voice_description": "calm neutral narrator voice",
+    "output_file": "C:\\Users\\Ralph\\Desktop\\projects\\novel-voice\\lightnovel-voice\\backend\\audio_output\\segment_4.wav"
+  }
+]
